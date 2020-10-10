@@ -71,7 +71,7 @@ body {
 
 
 .image {
-  border-radius: 50%;
+  border-radius: 10%;
   border: 7px solid rgba(0, 0, 0, 0.5);
   width: 5%;
 }
